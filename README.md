@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefaniesong.
-- 👀 I’m interested in medical image processing and augmented reality technique.
-- 🌱 I’m currently learning Biomedical Engineering.
+- 👀 I’m interested in utrasoud image, augmented reality and visual SLAM.
+- 🌱 I’m currently learning Biomedical Engineering in Johns Hopkins.
 - 💞️ I’m looking to collaborate on augmented reality implementation with ultrasound.
 - 📫 email: sgy20@mails.tsinghua.edu.cn
 
