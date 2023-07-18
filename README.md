@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @stefaniesong.
 - 👀 I’m interested in utrasoud image processing, augmented reality and visual SLAM.
-- 🌱 I’m currently learning Biomedical Engineering in Johns Hopkins University.
-- 💞️ I’m looking to collaborate on augmented reality implementation with ultrasound.
-- 📫 email: sgy20@mails.tsinghua.edu.cn
+- 📫 email: sunstefanie709@gmail.com
 
 <!---
 stefaniesong/stefaniesong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
