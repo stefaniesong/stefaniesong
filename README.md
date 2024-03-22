@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stefaniesong.
-- 👀 I’m interested in utrasoud image processing, augmented reality and visual SLAM.
+- 👀 I’m interested in image processing, augmented reality, motion dectection and 3D reconstruction.
 - 📫 email: sunstefanie709@gmail.com
 
 <!---
