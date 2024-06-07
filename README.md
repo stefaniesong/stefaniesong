@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stefaniesong.
-- 👀 I’m interested in image processing, augmented reality, motion dectection and 3D reconstruction.
+- 👀 I’m interested in image processing in medical field, augmented reality, motion dectection and 3D reconstruction.
 - 📫 email: sunstefanie709@gmail.com
 
 <!---
